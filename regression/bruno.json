@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "gateway-regression-2",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
